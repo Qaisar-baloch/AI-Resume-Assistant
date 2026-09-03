@@ -6,7 +6,8 @@ Built as part of the **Pak Angels, HEC-NCEAC Generative & Agentic AI Training** 
 
 **Live demo:** [qaisar-baloch-ai-resume-assistent-app-a5bfcg.streamlit.app](https://qaisar-baloch-ai-resume-assistent-app-a5bfcg.streamlit.app/)
 
-![screenshot](docs/screenshot.png)
+![screenshot](docs/screenshot.png)<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/584f4a1b-57ab-4ccd-bba1-1e7b25102179" />
+
 *(add a screenshot of the running app here)*
 
 ## What it does
