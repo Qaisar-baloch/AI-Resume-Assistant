@@ -5,10 +5,7 @@ An AI-powered resume assistant that helps job seekers review, improve, and tailo
 Built as part of the **Pak Angels, HEC-NCEAC Generative & Agentic AI Training** program (Cohort 11, Aug 23 – Oct 10, 2026), organized by **PEC, NCEAC-HEC, iCodeGuru, and Aspire Pakistan**, under the initiative *"Building Pakistan's AI-Driven Knowledge Economy."*
 
 **Live demo:** [qaisar-baloch-ai-resume-assistent-app-a5bfcg.streamlit.app](https://qaisar-baloch-ai-resume-assistent-app-a5bfcg.streamlit.app/)
-
-![screenshot](docs/screenshot.png)<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/584f4a1b-57ab-4ccd-bba1-1e7b25102179" />
-
-*(add a screenshot of the running app here)*
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/584f4a1b-57ab-4ccd-bba1-1e7b25102179" />
 
 ## What it does
 
