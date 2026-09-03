@@ -46,6 +46,7 @@ This project was built as practice/skill-building work within the **Pak Angels, 
 - Dr. Zafar Shahid
 - Hassan Syed
 - Naeem Zafar
+- Muhammad Talha
 - Umaima Rizwan
 - Ayesha Andleeb
 - Rana Muhammad Moeen ud Deen
