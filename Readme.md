@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An AI-powered web application that analyzes resumes and provides an **estimated ATS readiness score**, strengths, ATS keywords, formatting checks, and actionable improvement suggestions.
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/2cfa43ee-8f5b-4fe4-9fc2-d5334ec6f37e" />
+
 
 🔗 **Live Demo:** https://lnkd.in/duEJw7dA  
 💻 **Repository:** https://lnkd.in/dGrd5NAB
