@@ -12,7 +12,6 @@ An AI-powered web application that analyzes resumes and provides an **estimated 
 
 
 🔗 **Live Demo:** https://lnkd.in/duEJw7dA  
-💻 **Repository:** https://lnkd.in/dGrd5NAB
 
 ---
 
